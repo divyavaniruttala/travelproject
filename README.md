@@ -3,7 +3,8 @@
 This is my FRT Internship project....
 
 azure link : https://delightful-bush-0564f410f.3.azurestaticapps.net/
-
+GITHUB URL: https://divyavaniruttala.github.io/travelproject/
+DEMO URL : 
 
 # Project Statement:
 
@@ -58,9 +59,15 @@ Vs code
 
 
 # project 
-
-
-
+![Screenshot (23)](https://github.com/divyavaniruttala/travelproject/assets/117364151/76599362-8e43-470d-ac39-f40051b36710)
+![Screenshot (24)](https://github.com/divyavaniruttala/travelproject/assets/117364151/5486d1f9-b94b-4f7c-8536-2c8eef52403a)
+![Screenshot (25)](https://github.com/divyavaniruttala/travelproject/assets/117364151/58bc31c7-03ba-4e76-8a35-27d6594ec5f0)
+![Screenshot (26)](https://github.com/divyavaniruttala/travelproject/assets/117364151/a464a2aa-585b-4c8c-80f0-5a7f4e3fb156)
+![Screenshot (27)](https://github.com/divyavaniruttala/travelproject/assets/117364151/83276d55-4b55-436a-b814-37edfcb0975d)
+![Screenshot (28)](https://github.com/divyavaniruttala/travelproject/assets/117364151/7a681d1e-d756-4f0e-ba04-00f061c745ab)
+![Screenshot (29)](https://github.com/divyavaniruttala/travelproject/assets/117364151/5d810854-f95e-4810-859d-244fa43d975e)
+![Screenshot (30)](https://github.com/divyavaniruttala/travelproject/assets/117364151/ac7c5c15-6dc1-4403-a8c7-d704ac5ff18b)
+![Screenshot (31)](https://github.com/divyavaniruttala/travelproject/assets/117364151/651fffbb-537b-4533-9e99-d51aadceee47)
 
 
 
