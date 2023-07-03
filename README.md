@@ -1,5 +1,4 @@
 # travelproject
-# Dwellerr
 
 This is my FRT Internship project....
 
@@ -8,11 +7,12 @@ azure link : https://delightful-bush-0564f410f.3.azurestaticapps.net/
 
 # Project Statement:
 
-In a real estate environment, it can be easy to overlook the significance of a project manager’s role: to keep the project moving on schedule and under budget. In the past, some project managers had to justify their presence on a project site. But today, project managers’ pay structure — and the incentives for projects wrapping up as planned — indicates that their value has proven itself over time. 
- 
+There comes a time in any travel related business when you must go online to expand your reach to global audience. Going online means getting a website.
+
+
 # Project Description:
 
-Real estate is considered real property that includes land and anything permanently attached to it or built on it, whether natural or man-made. There are five main categories of real estate which include residential, commercial, industrial, raw land, and special use. Investing in real estate includes purchasing a home, rental property, or land. Indirect investment in real estate can be made via REITs or through pooled real estate investment.
+We have presented the fundamentals of a successful travel website. The article will surely help in accomplishing the best travel website. We take all efforts to establish your business in the market and consistently upgrading new enhancements and features.
 
 # Azure Technologies used :
 
@@ -57,6 +57,11 @@ Vs code
 8.Finally my website was deployed on the azure web services and ready to use...
 
 
-# project html pages
+# project 
+
+
+
+
+
 
 
