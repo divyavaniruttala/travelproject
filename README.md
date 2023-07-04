@@ -3,8 +3,8 @@
 This is my FRT Internship project....
 
 azure link : https://delightful-bush-0564f410f.3.azurestaticapps.net/
-GITHUB URL: https://divyavaniruttala.github.io/travelproject/
-DEMO URL : 
+GITHUB URL:https://github.com/divyavaniruttala/travelproject
+DEMO URL : https://youtu.be/NfOAUI4OmDU
 
 # Project Statement:
 
